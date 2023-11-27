@@ -23,3 +23,9 @@ will be key to future growth. Rather than creating a marketing campaign that tar
 members. She notes that casual riders are already aware of the Cyclistic program and have
 chosen Cyclistic for their mobility needs.
 ## Ask
+Three questions will guide the futture marketing program:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclisttic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+## Data Source & Credibility
+**Source:** The data used is from https://divvy-tripdata.s3.amazonaws.com/index.html. It was located in zip files according to month and year.

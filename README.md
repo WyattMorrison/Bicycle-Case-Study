@@ -32,4 +32,4 @@ Three questions will guide the futture marketing program:
 
 **Reliability:** The data is very reliable with over 5 million records. That is enough to dampen the effects that outliers may have within  the analysis.
 
-**Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the attttributes observed        include: rider id, bike type, member type, start time, end time, start location, and end location.
+**Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the atttributes observed include: rider id, bike type, member type, start time, end time, start location, and end location.

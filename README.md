@@ -28,6 +28,6 @@ Three questions will guide the futture marketing program:
 2. Why would casual riders buy Cyclisttic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 ## Data Source & Credibility
-**Source:** The data used is from https://divvy-tripdata.s3.amazonaws.com/index.html. It was located in zip files according to month and year.
-**Reliability:** The data is very reliable with over 5 million records. That is enough to dampen the effects that outliers may have within the analysis.
-**Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the attttributes observed include: rider id, bike type, member type, start time, end time, start location, and end location.
+**Source:** The data used is from https://divvy-tripdata.s3.amazonaws.com/index.html. It was located in zip files according to month and     year.
+**Reliability:** The data is very reliable with over 5 million records. That is enough to dampen the effects that outliers may have within   the analysis.
+**Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the attttributes observed         include: rider id, bike type, member type, start time, end time, start location, and end location.

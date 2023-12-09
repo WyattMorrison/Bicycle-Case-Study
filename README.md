@@ -36,3 +36,4 @@ Three questions will guide the futture marketing program:
 
 https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Union%20Code.PNG
 ![Union Code](images/Union%20Code.PNG)
+<img src="(https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Union%20Code.PNG)" width="200" />

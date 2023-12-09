@@ -33,7 +33,12 @@ Three questions will guide the futture marketing program:
 **Reliability:** The data is very reliable with over 5 million records. That is enough to dampen the effects that outliers may have within  the analysis.
 
 **Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the atttributes observed include: rider id, bike type, member type, start time, end time, start location, and end location.
+##Process
+With there being over 5 million rows of data, SQL was used to clean and analyze the data.
 
-https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Cleaned%20Table%20Code%20pt1.PNG
+#### Data Cleaning & Manipulation
+1. The tables were first renamed to make it easier to read. For example I changed "
 
-<img src="images/Union%20Code.PNG" /> <img src="images/Cleaned%20Table%20Code%20pt1.PNG" />
+
+<img src="images/Union%20Code.PNG" /> 
+<img src="images/Cleaned%20Table%20Code%20pt1.PNG" />

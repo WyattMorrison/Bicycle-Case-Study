@@ -35,5 +35,5 @@ Three questions will guide the futture marketing program:
 **Comprehensiveness:** The data provides comprehensible attributes to perfrom a thorough analysis. Some of the atttributes observed include: rider id, bike type, member type, start time, end time, start location, and end location.
 
 https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Union%20Code.PNG
-[Union Code](images/Union%20Code.PNG)
-<img src="(https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Union%20Code.PNG)" width="200" />
+![Union Code](images/Union%20Code.PNG)
+<img src="![Union Code](images/Union%20Code.PNG)" width="200" />

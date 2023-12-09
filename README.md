@@ -37,7 +37,8 @@ Three questions will guide the futture marketing program:
 With there being over 5 million rows of data, SQL was used to clean and analyze the data.
 
 #### Data Cleaning & Manipulation
-1. The tables were first renamed to make it easier to read. For example I changed "
+1. The tables were first renamed to make it easier to read. For example I changed "202201-divvy-tripdata.csv" to "Jan_2022.csv."
+2. 
 
 
 <img src="images/Union%20Code.PNG" /> 

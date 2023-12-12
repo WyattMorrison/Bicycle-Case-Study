@@ -43,4 +43,4 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 <img src="images/Cleaned%20Table%20Code%20pt1.PNG" />
 <img src="images/Cleaned%20Table%20Code%20pt2.PNG" />
 <img src="images/images/Cleaned%20Table%20Results.PNG" />
-https://github.com/WyattMorrison/Bicycle-Case-Study/blob/main/images/Cleaned%20Table%20Results.png?raw=true
+

@@ -41,3 +41,4 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 2. The 12 datasets (1 for each month) were then imported into SQL and merged into one table named "Bike_Trips_2022." The table has a total of 5,667,717 rows.
 <img src="images/Union%20Code.PNG" /> 
 <img src="images/Cleaned%20Table%20Code%20pt1.PNG" />
+<img src="images/Cleaned%20Table%20Code%20pt2.PNG" />

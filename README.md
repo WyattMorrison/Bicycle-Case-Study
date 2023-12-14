@@ -43,7 +43,7 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 <img src="images/Cleaned%20Table%20Code%20pt1.PNG" />
 <img src="images/Cleaned%20Table%20Code%20pt2.PNG" />
 <img src="images/Cleaned%20Table%20Results.png" />
-<img src="images/Total%20Trips%20Dash.png" />
+<img src="images/Total%20Trips%20Dash.png" /> 
 <img src="images/Total%20Trips%20By%20Member.png" />
 <img src="images/Trips%20By%20Month%20Dash.png" />
 <img src="images/Trips%20By%20Day%20Dash.png" />

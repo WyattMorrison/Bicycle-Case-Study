@@ -48,5 +48,13 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 <img src="images/Trips%20By%20Month%20Dash.png" />
 <img src="images/Trips%20By%20Day%20Dash.png" />
 <img src="images/Trips%20By%20Hour%20Dash.png" />
-
+<img src="images/Duration%20By%20Month%20Dash.png" />
+<img src="images/Duration%20By%20Day%20Dash.png" />
+<img src="images/Duration%20By%20Hour%20Dash.png" />
+<img src="images/Distance%20By%20Month%20Dash.png" />
+<img src="images/Distance%20By%20Day%20Dash.png" />
+<img src="images/Distance%20By%20Hour%20Dash.png" />
+<img src="images/Distance%20By%20Bike%20Dash.png" />
+<img src="images/Start%20Location%20Dash.png" />
+<img src="images/End%20Location%20Dash.png" />
 

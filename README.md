@@ -39,8 +39,11 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 #### Data Cleaning & Manipulation
 1. The tables were first renamed to make it easier to read. For example I changed "202201-divvy-tripdata.csv" to "Jan_2022.csv."
 2. The 12 datasets (1 for each month) were then imported into SQL and merged into one table named "Bike_Trips_2022." The table has a total of 5,667,717 rows.
+
 <img src="images/Union%20Code.PNG" />
+
 3. The following code was used to clean and manipulate the data.
+
 <img src="images/Cleaned%20Table%20Code%20pt1.PNG" />
 <img src="images/Cleaned%20Table%20Code%20pt2.PNG" />
 <img src="images/Cleaned%20Table%20Results.png" />

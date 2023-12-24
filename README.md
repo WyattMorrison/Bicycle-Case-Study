@@ -47,13 +47,16 @@ With there being over 5 million rows of data, SQL was used to clean and analyze 
 
 After running the code, there was 4,120,868 rows remaining.
 
-##Distribution of riders in year 2022
+## Distribution of riders in year 2022
 <img src="images/Total%20Trips%20By%20Member.png" />
+
 There are 4.1 million trips in total in 2022. There were 2,505,317 member riders which constitutes 60.8% of all riders and 1,615,551 casual riders which constitutes 39.2% of all riders.
+
 <img src="images/Total%20Trips%20Dash.png" /> 
+
 Classic bikes are the most common among riders and electric is the second most common. Meanwhile, docked bikes are far less popular for riders. Member riders primarily use classic bikes, but even though they only use electric bikes half as much, there are still a large amount of member riders that use electric bikes. For casual riders it is almost an even split between classic and electric bikes. For docked bikes, no members use them and only a smaill percentage of casual riders use this type of bike.
 
-##Number of Trips 
+## Number of Trips 
 <img src="images/Trips%20By%20Month%20Dash.png" />
 <img src="images/Trips%20By%20Day%20Dash.png" />
 <img src="images/Trips%20By%20Hour%20Dash.png" />

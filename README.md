@@ -61,8 +61,17 @@ Classic bikes are the most common among riders and electric is the second most c
 
 ## Number of Trips 
 <img src="images/Trips%20By%20Month%20Dash.png" />
+
+The trend shows that the number of trips increases to July where the peak is around 600k trips and then the number of trips starts to decrease through December. This shows that Q2 and Q3 are the most popular riding times for riders and any advertising or business plans should take this trend into account.
+
 <img src="images/Trips%20By%20Day%20Dash.png" />
+
+The member riders do more trips during the weekdays with Tuesday, Wednesday, and Thursday being the most popular. The casual riders do more trips during the weekends, especially on Saturday and combined, Saturday is the busiest overall day for riders.
+
 <img src="images/Trips%20By%20Hour%20Dash.png" />
+
+The casual riders see their number of trips increase until it peaks at 5:00 PM and then begins to decrease. Member riders see a surge in usage during morning and evening rush hours.
+
 <img src="images/Duration%20By%20Month%20Dash.png" />
 <img src="images/Duration%20By%20Day%20Dash.png" />
 <img src="images/Duration%20By%20Hour%20Dash.png" />

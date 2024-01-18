@@ -72,13 +72,38 @@ The member riders do more trips during the weekdays with Tuesday, Wednesday, and
 
 The casual riders see their number of trips increase until it peaks at 5:00 PM and then begins to decrease. Member riders see a surge in usage during morning and evening rush hours.
 
+## Duration of Trips
 <img src="images/Duration%20By%20Month%20Dash.png" />
+
+The average ride duration for members was consistent throughout the year. For casual riders, the months of March, April, and May had longer ride durations in comparison to other months.
+
 <img src="images/Duration%20By%20Day%20Dash.png" />
+
+For ride duration by day, members are consistent during the week with a slight increase on the weekends. Casual riders have some fluctuations during the week and see a large increase during the weekends.
+
 <img src="images/Duration%20By%20Hour%20Dash.png" />
+
+Member riders' ride duration is reletively consistent throughout the day. Casual riders' ride duration fluctuates throughout the day, with the longest ride durations being between 10:00 AM and 2:00 PM.
+
+Overall, casual riders' ride duration is about 2-2.5 times longer than member riders throughout the year,week, and day. While casual riders have longer ride duration in comparison to member riders, they ride less frequently.
+
+## Distance of Trips
 <img src="images/Distance%20By%20Month%20Dash.png" />
+
+During December, January, and February both casual and member riders have the smalled amount of distance travelled mainly due to weather. For casual riders, April, May and June are the peak months for distance travelled. Meanwhile, member riders' peak months are June, July, and August. Overall, casual members have slighly longer ride distances for most months compared to member riders.
+
 <img src="images/Distance%20By%20Day%20Dash.png" />
+
+For distance travelled by day both casual and member riders follow the same pattern throughout the week. There is a slight increase in distance on Wednesday's compared to the other weekday's and then the distance travelled peaks during the weekends. The only difference is that casual riders have a travel distance that is slightly longer than members. 
+
 <img src="images/Distance%20By%20Hour%20Dash.png" />
+
+On average, casual riders have a longer travel distance of 2.30 kilometers compared to 2.15 kilometers for members. Members' peak riding hours are between 4:00 AM and 7:00 AM while casual riders' peak riding hours are between 10:00 AM and 5:00 PM.
+
 <img src="images/Distance%20By%20Bike%20Dash.png" />
+
+For bike types, the ride distance varies. Classic bikes have a big difference in distance travelled between the ttwo rider types, with casual riders having a distance of 2.3 kilometers and members having a distance of 2.05 kilometers. Docked bikes have the longest distance travelled with casual riders travelling on average 2.65 kilometers (members did not have any data for docked bikes). Lastly, electric bikes are similar with casual riders having a average distance travelled of 2.34 kilometers compared to 2.35 kilometers for members.
+
 <img src="images/Start%20Location%20Dash.png" />
 <img src="images/End%20Location%20Dash.png" />
 
